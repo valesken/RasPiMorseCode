@@ -10,6 +10,8 @@ I put an LED and 270 ohm resistor in series between GPIO17 and ground.
 The value of the resistor in not sensitive for this, but should probably be >=100 ohms.
 
 Jeff Kennedy, Fall 2014
+
+This is a test
 */
 
 #include <stdlib.h>  // needed for exit
